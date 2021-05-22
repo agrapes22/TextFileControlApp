@@ -1,0 +1,5 @@
+To Lowercase: this is a test application to see how it works
+First word: a
+Last word: works
+Longest word: application
+Word with most vowels: application
